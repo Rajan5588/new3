@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav{
+    height: 40px;
+background-color: rgb(10, 8, 8);
+color: white;
+
+}
+a{
+    text-decoration: none;
+    margin-right: 140px;
+}
+#t{
+    height: 35px;
+    background-color: aquamarine;
+    color: black;
+}
+.btn{
+    height: 25px;
+    background-color:yellowgreen;
+    cursor: pointer;
+
+}
+.btn:hover{
+background-color: burlywood;
+}
